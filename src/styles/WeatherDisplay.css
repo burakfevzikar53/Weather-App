@@ -1,0 +1,35 @@
+.weather-display {
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.weather-display h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.weather-display p {
+  font-size: 1.2rem;
+  margin: 5px 0;
+  color: #555;
+}
+
+.weather-display img {
+  margin-top: 10px;
+  max-width: 100px;
+}
+
+.weather-search input:focus {
+  border-color: #007b5e;
+  outline: none;
+}
+
+.weather-search button:active {
+  transform: scale(0.95);
+}
+

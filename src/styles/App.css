@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(to bottom, #007b5e, #004d40);
+  min-height: 100vh;
+  color: white;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #f1f1f1;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
